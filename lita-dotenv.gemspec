@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = 'lita-dotenv'
-  spec.version       = '0.1.0'
+  spec.version       = '0.9.0'
   spec.authors       = ['SAWADA Tadashi']
   spec.email         = ['cesare@mayverse.jp']
   spec.description   = 'dotenv lita extension'
